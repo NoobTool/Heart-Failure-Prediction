@@ -20,5 +20,5 @@ Various kinds of plots such as line, bar and pie have been leveraged to explore 
 Various versions of the models have been used for training to see which better learns the patterns in the data. Model scoring in Knn is done in various versions, with 7fold cross validation with 3 nearest neighbour giving the best results with 95% accuracy..
  
 
-The report file is located in the base directory with "report.pdf" which contains the result and conclusion of the modelling process.
+The report file is located in the base directory with "report.pdf" which contains the result and conclusion of the modelling process. The dataset has been acquired from https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
  
