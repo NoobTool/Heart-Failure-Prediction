@@ -1,7 +1,11 @@
+## Prediction of Heart Failures
+---
+
 In collaboration with Bharti Sanjeebkumar Sinha, I implemented a data science project aimed at predicting the survival of patients with history of heart failures,
 during their follow up period.
 
-Instructions for executing the analysis.ipynb
+#### Instructions
+---
 
 1. 'Data Retriving' is to be run first to correctly import file into the workspace and check if its similar to the source.
 The functions under this part takes care of data retriving part.
