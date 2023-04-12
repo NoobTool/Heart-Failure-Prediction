@@ -1,7 +1,7 @@
 ## Prediction of Heart Failures
 ---
 
-In collaboration with Bharti Sanjeebkumar Sinha, I implemented a data science project aimed at predicting the survival of patients with history of heart failures,
+In collaboration with [Bharti Sinha](https://github.com/Bharti-Sinha), I implemented a data science project aimed at predicting the survival of patients with history of heart failures,
 during their follow up period.
 
 #### Instructions
